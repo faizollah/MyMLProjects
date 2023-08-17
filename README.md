@@ -11,7 +11,7 @@ Time Series Analysis
 Contact
 
 ## Classification Projects
-[Diabetes Classification](https://github.com/faizollah/diabetes_classification): A machine learning project focused on classifying diabetes outcomes based on various health metrics.
+- Project 1: [Diabetes Classification](https://github.com/faizollah/diabetes_classification): A machine learning project focused on classifying diabetes outcomes based on various health metrics.
 
 Project Name 2: Short description here.
 
