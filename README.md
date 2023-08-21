@@ -4,7 +4,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 ## Table of Contents
 [Classification Projects](https://github.com/faizollah/MyMLProjects/edit/main/README.md#classification-projects)
 
-[Regression Projects]()
+[Regression Projects](https://github.com/faizollah/MyMLProjects#regression-projects)
 <!--Clustering Projects
 Deep Learning Projects
 NLP Projects
@@ -12,7 +12,7 @@ Time Series Analysis-->
 [Contact](https://github.com/faizollah/MyMLProjects/edit/main/README.md#contact)
 
 ## Classification Projects
-- 1. [Diabetes Classification](https://github.com/faizollah/diabetes_classification): A machine learning project focused on classifying diabetes outcomes based on various health metrics.
+1. [Diabetes Classification](https://github.com/faizollah/diabetes_classification): A machine learning project focused on classifying diabetes outcomes based on various health metrics.
 
 ## Regression Projects
 1. [UK Grid Modeling](https://github.com/faizollah/UK-Grid-Modeling)
