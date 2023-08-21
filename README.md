@@ -4,8 +4,8 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 ## Table of Contents
 [Classification Projects](https://github.com/faizollah/MyMLProjects/edit/main/README.md#classification-projects)
 
-<!--Regression Projects
-Clustering Projects
+[Regression Projects]()
+<!--Clustering Projects
 Deep Learning Projects
 NLP Projects
 Time Series Analysis-->
