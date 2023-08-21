@@ -12,14 +12,12 @@ Time Series Analysis-->
 [Contact](https://github.com/faizollah/MyMLProjects/edit/main/README.md#contact)
 
 ## Classification Projects
-- Project 1: [Diabetes Classification](https://github.com/faizollah/diabetes_classification): A machine learning project focused on classifying diabetes outcomes based on various health metrics.
-
-<!-- Project Name 2: Short description here.
+- 1. [Diabetes Classification](https://github.com/faizollah/diabetes_classification): A machine learning project focused on classifying diabetes outcomes based on various health metrics.
 
 ## Regression Projects
-Project Name 1: Short description here.
-Project Name 2: Short description here.
+1. [UK Grid Modeling](https://github.com/faizollah/UK-Grid-Modeling)
 
+<!--
 ## Clustering Projects
 Project Name 1: Short description here.
 Project Name 2: Short description here.
