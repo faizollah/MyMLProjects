@@ -13,6 +13,7 @@ Time Series Analysis-->
 
 ## Classification Projects
 1. [Diabetes Classification](https://github.com/faizollah/diabetes_classification): A machine learning project focused on classifying diabetes outcomes based on various health metrics.
+2. [Traffic Sign Classification](https://github.com/faizollah/traffic-sign-classifier): A classifier trained to recognize traffic signs from the GTSRB - German Traffic Sign Recognition Benchmark dataset.
 
 ## Regression Projects
 1. [UK Grid Modeling](https://github.com/faizollah/UK-Grid-Modeling): This project aims to predict the actual carbon intensity of the UK National Grid using forecasted values.
