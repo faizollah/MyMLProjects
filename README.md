@@ -17,6 +17,7 @@ Time Series Analysis-->
 
 ## Regression Projects
 1. [UK Grid Modeling](https://github.com/faizollah/UK-Grid-Modeling): This project aims to predict the actual carbon intensity of the UK National Grid using forecasted values.
+2. [Car Price Prediction](https://github.com/faizollah/predict-car-price): a machine learning model that predicts car prices based on various features such as the car's age, mileage, fuel type, and more.
 
 <!--
 ## Clustering Projects
