@@ -7,6 +7,9 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 [Regression Projects](https://github.com/faizollah/MyMLProjects#regression-projects)
 
 [Deep Learning Projects](https://github.com/faizollah/MyMLProjects#deep-learning-projects)
+
+[Convolutional Neural Networks Projects](https://github.com/faizollah/MyMLProjects#convolutional-neural-networks)
+
 <!--Clustering Projects
 NLP Projects
 Time Series Analysis-->
@@ -22,6 +25,9 @@ Time Series Analysis-->
 
 ## Deep Learning Projects
 1. [Uber Fare Prediction](https://github.com/faizollah/uber-fare-prediction): This project aims to predict Uber fares based on various features using a deep neural network. The model was built using TensorFlow and Keras, and hyperparameters were tuned using Keras Tuner.
+
+## Convolutional Neural Networks (CNN) Projects
+1. [Vehicle Type Recognition](https://github.com/faizollah/vehicle-type-recognition): This project explored various techniques to recognize vehicle types using Convolutional Neural Networks (CNNs), including pre-trained model and transfer learning.
 
 <!--
 ## Clustering Projects
