@@ -5,8 +5,9 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 [Classification Projects](https://github.com/faizollah/MyMLProjects/edit/main/README.md#classification-projects)
 
 [Regression Projects](https://github.com/faizollah/MyMLProjects#regression-projects)
+
+[Deep Learning Projects](https://github.com/faizollah/MyMLProjects#deep-learning-projects)
 <!--Clustering Projects
-Deep Learning Projects
 NLP Projects
 Time Series Analysis-->
 [Contact](https://github.com/faizollah/MyMLProjects/edit/main/README.md#contact)
@@ -19,12 +20,11 @@ Time Series Analysis-->
 1. [UK Grid Modeling](https://github.com/faizollah/UK-Grid-Modeling): This project aims to predict the actual carbon intensity of the UK National Grid using forecasted values.
 2. [Car Price Prediction](https://github.com/faizollah/predict-car-price): a machine learning model that predicts car prices based on various features such as the car's age, mileage, fuel type, and more.
 
+## Deep Learning Projects
+1. [Uber Fare Prediction](https://github.com/faizollah/uber-fare-prediction): This project aims to predict Uber fares based on various features using a deep neural network. The model was built using TensorFlow and Keras, and hyperparameters were tuned using Keras Tuner.
+
 <!--
 ## Clustering Projects
-Project Name 1: Short description here.
-Project Name 2: Short description here.
-
-## Deep Learning Projects
 Project Name 1: Short description here.
 Project Name 2: Short description here.
 
