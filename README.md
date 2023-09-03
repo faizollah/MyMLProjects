@@ -28,6 +28,7 @@ Time Series Analysis-->
 
 ## Convolutional Neural Networks (CNN) Projects
 1. [Vehicle Type Recognition](https://github.com/faizollah/vehicle-type-recognition): This project explored various techniques to recognize vehicle types using Convolutional Neural Networks (CNNs), including pre-trained model and transfer learning.
+2. [Skin Lesion Classification](https://github.com/faizollah/skin-lesion-classification): This project aims to classify skin lesions using various deep learning models including custom CNN, transfer learning, and ensemble transfer learning. The dataset used is the HAM10000 dataset from Kaggle.
 
 <!--
 ## Clustering Projects
