@@ -10,9 +10,9 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 
 [Convolutional Neural Networks Projects](https://github.com/faizollah/MyMLProjects#convolutional-neural-networks)
 
-[Recurrent Neural Networks (RNN) and Time Series Analysis](https://github.com/faizollah/MyMLProjects/blob/main/README.md#recurrent-neural-networks-rnn-and-time-series-analysis))
+[Recurrent Neural Networks (RNN) and Time Series Analysis](https://github.com/faizollah/MyMLProjects/blob/main/README.md#recurrent-neural-networks-rnn-and-time-series-analysis)
 
-[Natural Language Processing (NLP) Projects]()
+[Natural Language Processing (NLP) Projects](https://github.com/faizollah/MyMLProjects/blob/main/README.md#natural-language-processing-nlp-projects)
 
 [Contact](https://github.com/faizollah/MyMLProjects/edit/main/README.md#contact)
 
