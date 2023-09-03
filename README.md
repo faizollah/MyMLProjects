@@ -10,7 +10,9 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 
 [Convolutional Neural Networks Projects](https://github.com/faizollah/MyMLProjects#convolutional-neural-networks)
 
-[Recurrent Neural Networks (RNN) and Time Series Analysis](https://github.com/faizollah/MyMLProjects#convolutional-neural-networks)
+[Recurrent Neural Networks (RNN) and Time Series Analysis](https://github.com/faizollah/MyMLProjects/blob/main/README.md#recurrent-neural-networks-rnn-and-time-series-analysis))
+
+[Natural Language Processing (NLP) Projects]()
 
 [Contact](https://github.com/faizollah/MyMLProjects/edit/main/README.md#contact)
 
@@ -32,9 +34,8 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 ## Recurrent Neural Networks (RNN) and Time Series Analysis
 1. [Jena Climate Temperature Prediction](https://github.com/faizollah/Jena-Climate-Temperature-Prediction): A machine learning project that utilizes LSTM (Long Short-Term Memory) networks to predict temperatures based on historical climate data from the Jena Climate dataset.
 
-## NLP Projects
-Project Name 1: Short description here.
-Project Name 2: Short description here.
+## Natural Language Processing (NLP) Projects
+1. []()
 
 ## Contact
 Feel free to reach out to me for collaboration, questions, or feedback:
