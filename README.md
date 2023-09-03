@@ -10,9 +10,8 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 
 [Convolutional Neural Networks Projects](https://github.com/faizollah/MyMLProjects#convolutional-neural-networks)
 
-<!--Clustering Projects
-NLP Projects
-Time Series Analysis-->
+[Recurrent Neural Networks (RNN) and Time Series Analysis](https://github.com/faizollah/MyMLProjects#convolutional-neural-networks)
+
 [Contact](https://github.com/faizollah/MyMLProjects/edit/main/README.md#contact)
 
 ## Classification Projects
@@ -30,18 +29,12 @@ Time Series Analysis-->
 1. [Vehicle Type Recognition](https://github.com/faizollah/vehicle-type-recognition): This project explored various techniques to recognize vehicle types using Convolutional Neural Networks (CNNs), including pre-trained model and transfer learning.
 2. [Skin Lesion Classification](https://github.com/faizollah/skin-lesion-classification): This project aims to classify skin lesions using various deep learning models including custom CNN, transfer learning, and ensemble transfer learning. The dataset used is the HAM10000 dataset from Kaggle.
 
-<!--
-## Clustering Projects
-Project Name 1: Short description here.
-Project Name 2: Short description here.
+## Recurrent Neural Networks (RNN) and Time Series Analysis
+1. [Jena Climate Temperature Prediction](https://github.com/faizollah/Jena-Climate-Temperature-Prediction): A machine learning project that utilizes LSTM (Long Short-Term Memory) networks to predict temperatures based on historical climate data from the Jena Climate dataset.
 
 ## NLP Projects
 Project Name 1: Short description here.
 Project Name 2: Short description here.
-
-## Time Series Analysis
-Project Name 1: Short description here.
-Project Name 2: Short description here.-->
 
 ## Contact
 Feel free to reach out to me for collaboration, questions, or feedback:
