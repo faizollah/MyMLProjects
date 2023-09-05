@@ -35,7 +35,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 1. [Jena Climate Temperature Prediction](https://github.com/faizollah/Jena-Climate-Temperature-Prediction): A machine learning project that utilizes LSTM (Long Short-Term Memory) networks to predict temperatures based on historical climate data from the Jena Climate dataset.
 
 ## Natural Language Processing (NLP) Projects
-1. []()
+1. [Emotion Analysis with BERT and DistilBert](https://github.com/faizollah/Emotion-Analysis-with-BERT-and-DistilBert): This repository contains code for fine-tuning pre-trained BERT and DistilBert models for emotion analysis on a Twitter dataset.
 
 ## Contact
 Feel free to reach out to me for collaboration, questions, or feedback:
