@@ -36,6 +36,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases a curated li
 
 ## Natural Language Processing (NLP) Projects
 1. [Emotion Analysis with BERT and DistilBert](https://github.com/faizollah/Emotion-Analysis-with-BERT-and-DistilBert): This repository contains code for fine-tuning pre-trained BERT and DistilBert models for emotion analysis on a Twitter dataset.
+2. [Healthcare Reviews Analysis](https://github.com/faizollah/healthcare-reviews-analysis): This repository contains an analysis of healthcare reviews to extract sentiments, keywords, and other insights.
 
 ## Contact
 Feel free to reach out to me for collaboration, questions, or feedback:
